@@ -1,9 +1,8 @@
-## Olá! Sou Daniel Morais hehe
+## Daniel Morais
 
-- 🔭 Hoje sou dev Front End
-- 🌱 Estudando Back End
+- 🔭 Hoje sou dev Full stack
+- 🌱 Sempre estudando
 - 📫 Fale comigo no email: ddan.mm.16@gmail.com
-- ⚡ Fato engraçado: 
 
 <div align="center">
   <a href="https://github.com/danielmm616">
